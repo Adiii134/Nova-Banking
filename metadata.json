@@ -1,0 +1,6 @@
+{
+  "name": "Nova Bank",
+  "description": "Next-generation digital banking platform featuring real-time financial dashboards, instant FedNow transfers, categorized transaction tracking, and interactive spending insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
